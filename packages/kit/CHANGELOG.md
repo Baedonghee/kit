@@ -1,5 +1,13 @@
 # @sveltejs/kit
 
+## 1.0.0-next.123
+
+### Patch Changes
+
+- 4b25615: Fix ReadOnlyFormData keys and values method implementation
+- 64f749d: ServiceWorker files exclusion support available through svelte.config.js
+- 4d2fec5: Enable Vite's server.fs.strict by default
+
 ## 1.0.0-next.122
 
 ### Patch Changes
